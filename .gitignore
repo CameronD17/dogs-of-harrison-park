@@ -40,6 +40,9 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+/.jekyll-cache
+.jekyll-metadata
+.ruby-version
 
 # System Files
 .DS_Store
