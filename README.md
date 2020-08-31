@@ -1,4 +1,4 @@
-# [dogsofharrisonpark.co.uk](Dogs Of Harrison Park)
+# [Dogs Of Harrison Park](dogsofharrisonpark.co.uk)
 
 dogsofharrisonpark.co.uk is used to collect photos of dogs from Shandon, Edinburgh for use in the Dogs Of Harrison Park Calendar.
 
