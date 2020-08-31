@@ -16,7 +16,7 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Upload
+  - title: Upload - GO HERE!
     url: /upload
   - title: Sponsors
     url: /sponsors
@@ -26,8 +26,8 @@ navigation:
     url: /contact
 
 social:
-  github: camerond17
-  facebook: DogCalendar2020
+  github: camerond17/dogs-of-harrison-park
+  facebook: DogCalendar2021
   email: dogsofharrisonpark@gmail.com
 
 google_analytics: "UA-176405143-1"

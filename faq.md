@@ -43,7 +43,7 @@ title: FAQ / Disclaimer
   <p>If it is the case that not all dogs can be included, we will apply the following criteria to select images:</p>
   <ul>
     <li>Dogs that have donated £5 to include their birthday will be guaranteed at least one image on their birth month.</li>
-    <li>Dogs that have previously featured in a previous calendar will be included as a priority.</li>
+    <li>Dogs that have featured in a previous calendar will be included as a priority.</li>
   </ul>
   <p>All other dogs will have their images added based on the quality of the pictures submitted. We have not had to turn away any dogs in the past, and hope not to do so this year either!</p>
   <p>We will retain one image from each upload (typically the clearest image of a dog) along with the dog's name and how many images were included in the calendar. The purpose of this is to be able to cross-reference dogs for the inclusion criteria for future calendars.</p>
