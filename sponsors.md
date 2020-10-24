@@ -5,10 +5,14 @@ title: Sponsors
 
 <div class="post">
   <h1 class="pageTitle">Our Sponsors</h1>
-  <p class="intro">The following sponsors assist with covering our printing costs, allowing 100% of the calendar sale to go to our chosen charity, the Edinburgh Dog and Cat Home.</p>
+  <p class="intro">The following local businesses have kindly sponsored us to assist with covering our printing costs, allowing 100% of the calendar sale to go to our chosen charity, the Edinburgh Dog and Cat Home.</p>
   <ul>
-    <li>Tea & Sympathy</li>
-    <li>Pollination</li>
+    <li><a href="https://teaandsympathy.me/">Tea & Sympathy</a></li>
+    <li><a href="https://www.pollination.co.uk/">Pollination</a></li>
+    <li><a href="https://www.facebook.com/theterracecafeshandon/">The Terrace Cafe</a></li>
+    <li><a href="https://www.stardogs.org.uk/">Star Dogs</a></li>
+    <li><a href="https://www.shopauricle.co.uk/">Auricle</a></li>
+    <li><a href="https://www.thecaleysampleroom.co.uk/">The Caley Sample Room</a></li>
   </ul>
   <h1 class="pageTitle">Our Chosen Charity</h1>
   <h2>Edinburgh Dog and Cat Home</h2>
