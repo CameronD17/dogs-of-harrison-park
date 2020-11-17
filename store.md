@@ -18,8 +18,6 @@ title: Buy Calendars
 		<li><a href="https://teaandsympathy.me/">Tea & Sympathy</a></li>
 		<li><a href="https://www.pollination.co.uk/">Pollination</a></li>
 		<li><a href="https://www.facebook.com/theterracecafeshandon/">The Terrace Cafe</a></li>
-		<li><a href="https://www.stardogs.org.uk/">Star Dogs</a></li>
-		<li><a href="https://www.thecaleysampleroom.co.uk/">The Caley Sample Room</a></li>
   </ul>
 	<p>Where possible, we're asking people to order online at Auricle and collect in-store to avoid our sponsors incurring card vendor charges on our behalf. If you want to collect in store, please put the <b>business name</b> in the address field, and you can collect your calendars from there when you show your proof of purchase!</p>
 	<p>If you do still want to purchase the calendar at one of the businesses sponsoring the calendar, you can do so via a PayPal payment. In certain cases, the businesses may accept cash or card, so please do ask them.</p>
